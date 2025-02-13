@@ -141,20 +141,23 @@
     ],
     "IPTV APPS": [
       {
-        "name": "NTV REBRAND APP: IPVanish Module",
-        "description": "Simplify customization with NTV REBRAND APP's IPVanish Module. Remotely configure services and settings for IPVanish, streamlining integration and enhancing user experiences from one intuitive platform.",
+        "name": "NTV REBRAND APP: Smarters Pro",
+        "description": "Simplifique la personalización con el módulo Smarters Pro de NTV REBRAND APP. Configure de forma remota los servicios y ajustes de Smarters Pro, agilizando la integración y mejorando las experiencias de usuario desde una plataforma intuitiva.",
         "hosted": "",
         "hosted_offer": "",
-        "selfhosted": "75.00",
-        "selfhosted_offer": "INCLUIDO",
+        "selfhosted": "150.00",
+        "selfhosted_offer": "00.00",
         "sourcecode": "",
         "sourcecode_offer": "",
-        "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-wg6ku-producto-17.png",
+        "main_image": "https://imgur.com/RftspqQ.jpg",
         "images": [
-          "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_17/6646089d104a4_9721.png",
-          "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_17/664608a254a0a_7370.png"
+          "https://i.imgur.com/gINBAtx.png",
+          "https://i.imgur.com/MRD9uPU.png",
+          "https://i.imgur.com/ufBBeAH.png",
+          "https://i.imgur.com/pQdbPI7.png",
+          "https://i.imgur.com/Q3Aesvm.png"
         ],
-        "ytvideo": "",
+        "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
         "telegram": "https://t.me/NTVrebrandingapk",
         "purchase": "https://t.me/UIXTREME"
       }
